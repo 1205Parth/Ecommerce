@@ -76,8 +76,8 @@
 				        $mail->isSMTP();                                     
 						$mail->Host = 'smtp.mailtrap.io';                      
 						$mail->SMTPAuth = true;                               
-						$mail->Username = '4aa7c7740b4ba2';     
-						$mail->Password = 'bfbf36541342f7';                    
+						$mail->Username = ' ';     
+						$mail->Password = ' ';                    
 						$mail->SMTPOptions = array(
 							'ssl' => array(
 							'verify_peer' => false,
